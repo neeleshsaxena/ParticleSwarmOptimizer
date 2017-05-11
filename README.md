@@ -32,5 +32,7 @@ Particle Swarm Optimization
 - The next iteration starts after the positions of all particles have been updated
 
 
-
+Real Time Distance and Time
+- Used data.CityOfBoston.gov to pull addresses of proposed customers
+- Created a distance matrix by consuming Google's Distance Matrix API for real time distance and time values to create a real life scenario
 
